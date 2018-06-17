@@ -21,3 +21,16 @@ multiplication table of (N) prime numbers.
 
 
 ### Running the application
+
+#### Start application
+
+
+
+#### Tests
+
+Run the following npm instruction on the terminal to run the tests
+with Mocha:
+
+```
+npm test
+```

@@ -10,7 +10,7 @@ describe('Prime Tables', function() {
 
             n = 1;
 
-            assert(true, true, "are equals");
+            assert.isTrue(true, "are equals");
 
         });
 
